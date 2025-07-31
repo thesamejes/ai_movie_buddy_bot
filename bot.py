@@ -8,7 +8,7 @@ from telegram.ext import ApplicationBuilder, CommandHandler, MessageHandler, fil
 # 🔐 ВСТАВЬ СЮДА СВОИ КЛЮЧИ
 TELEGRAM_BOT_TOKEN = "8247478033:AAGktHw1rhHf9nUCk7lCj9nQFtV0eh5jkTo"
 OPENROUTER_API_KEY = "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"
-TMDB_API_KEY = "f6a9e5cc3aeb2b71c00c0e11f3d70c99"
+TMDB_API_KEY = "8f90cd15841e59f7856b8fd29af0829e"
 
 openai.api_key = OPENROUTER_API_KEY
 openai.api_base = "https://openrouter.ai/api/v1"
